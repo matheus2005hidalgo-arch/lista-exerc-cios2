@@ -1,0 +1,1 @@
+let numero = parseInt(prompt("digite um numero  "))
