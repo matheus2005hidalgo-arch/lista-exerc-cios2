@@ -1,4 +1,5 @@
-let nome = prompt ("Digite seu nome:")
-let cor= prompt ("Digite sua cor favorita")
+let texto = prompt("Digite uma frase ou palavra:");
 
-alert(`olá ${nome} sua cor favorita é ${cor}!`)
+let textoMaiusculo = texto.toUpperCase();
+
+alert("Texto em maiúsculas: " + textoMaiusculo);
