@@ -1,1 +1,1 @@
-# lista-exerc-cios2
+# lista-exerccios2
